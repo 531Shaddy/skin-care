@@ -117,7 +117,10 @@ export default function Home() {
           transition={{ duration: 0.6 }}
           className="aspect-[4/5] rounded-2xl overflow-hidden"
         >
-          <img src="https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?auto=format&fit=crop&w=1200&q=80" alt="" className="w-full h-full object-cover" />
+          <img 
+          // src="https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?auto=format&fit=crop&w=1200&q=80" 
+          src = "https://plus.unsplash.com/premium_photo-1674739375749-7efe56fc8bbb?w=1200&auto=format&fit=crop&q=80&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2tpbmNhcmV8ZW58MHx8MHx8fDA%3D"
+          alt="" className="w-full h-full object-cover" />
         </motion.div>
         <motion.div
           initial={{ opacity: 0, x: 20 }}
