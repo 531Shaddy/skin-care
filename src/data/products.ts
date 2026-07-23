@@ -206,7 +206,8 @@ export const products: Product[] = [
     benefits: ['Unclogs pores', 'Smooths texture', 'Calms redness'],
     directions: 'Sweep across clean skin with a cotton pad or pat in with hands. Use PM, 3x/week to start.',
     clinical: ['87% saw fewer breakouts in 4 weeks*'],
-    image: img('photo-1601049676869-702ea24cfd0a'),
+    // image: img('photo-1601049676869-702ea24cfd0a'),
+    image: img('https://images.unsplash.com/photo-1616986953793-2e6159b78580?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG9uZXJ8ZW58MHx8MHx8fDA%3D'),
     gallery: [
       img('photo-1601049676869-702ea24cfd0a'),
       img('photo-1570194065650-d99fb4bedf0a'),
