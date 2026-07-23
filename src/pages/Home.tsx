@@ -18,7 +18,8 @@ export default function Home() {
       <section className="relative h-[90vh] min-h-[600px] overflow-hidden">
         <img
           // src="https://images.unsplash.com/photo-1598440947619-2c35c9aa4b35?auto=format&fit=crop&w=2000&q=80"
-          src = "https://plus.unsplash.com/premium_photo-1674739375749-7efe56fc8bbb?w=2000&auto=format&fit=crop&q=80&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2tpbmNhcmV8ZW58MHx8MHx8fDA%3D"
+          // src = "https://plus.unsplash.com/premium_photo-1674739375749-7efe56fc8bbb?w=2000&auto=format&fit=crop&q=80&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2tpbmNhcmV8ZW58MHx8MHx8fDA%3D"
+          src = "https://plus.unsplash.com/premium_photo-1679046948909-ab47e96082e7?w=2000&auto=format&fit=crop&q=80&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2tpbmNhcmV8ZW58MHx8MHx8fDA%3D"
           alt="Kindred Market lifestyle"
           className="absolute inset-0 w-full h-full object-cover"
         />
