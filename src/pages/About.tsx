@@ -8,7 +8,10 @@ export default function About() {
     <div>
       {/* Hero */}
       <section className="relative h-[70vh] min-h-[500px] overflow-hidden">
-        <img src="https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?auto=format&fit=crop&w=2000&q=80" alt="" className="absolute inset-0 w-full h-full object-cover" />
+        <img 
+        // src="https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?auto=format&fit=crop&w=2000&q=80" 
+        src = "https://images.unsplash.com/photo-1670201203208-055d6d79db4a?w=2000&auto=format&fit=crop&q=80&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YWJvdXQlMjB1cyUyMGZvciUyMHNraW4lMjBjYXJlfGVufDB8fDB8fHww"
+        alt="" className="absolute inset-0 w-full h-full object-cover" />
         <div className="absolute inset-0 bg-charcoal/30" />
         <div className="relative h-full max-w-4xl mx-auto px-4 flex flex-col items-center justify-center text-center text-ivory">
           <motion.p initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="text-xs uppercase tracking-[0.3em] mb-4">Our story</motion.p>
