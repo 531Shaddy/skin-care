@@ -68,7 +68,8 @@ export const blogPosts = [
 ];
 
 export const concerns = [
-  { name: 'Acne', image: 'https://images.unsplash.com/photo-1601049676869-702ea24cfd0a?auto=format&fit=crop&w=800&q=80' },
+  // { name: 'Acne', image: 'https://images.unsplash.com/photo-1601049676869-702ea24cfd0a?auto=format&fit=crop&w=800&q=80' },
+  { name: 'Acne', image: 'https://images.unsplash.com/photo-1643123158523-2950acbdfd68?w=800&auto=format&fit=crop&q=80&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFjbmUlMjBwcm9kdWN0fGVufDB8fDB8fHww' },
   { name: 'Dry Skin', image: 'https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=800&q=80' },
   { name: 'Sensitive Skin', image: 'https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80' },
   { name: 'Anti-aging', image: 'https://images.unsplash.com/photo-1631730486572-226d1f595b68?auto=format&fit=crop&w=800&q=80' },
